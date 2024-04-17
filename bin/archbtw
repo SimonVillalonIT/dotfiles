@@ -1,0 +1,6 @@
+#!/bin/bash
+#
+
+xwallpaper --zoom ~/.config/wallpaper/wallhaven-k91y87_1360x768.png
+wal -i ~/.config/wallpaper/wallhaven-k91y87_1360x768.png
+

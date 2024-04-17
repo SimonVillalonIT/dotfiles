@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+
+xwallpaper --zoom ~/.config/wallpaper/rick_and_morty.png
+wal -i ~/.config/wallpaper/rick_and_morty.png
